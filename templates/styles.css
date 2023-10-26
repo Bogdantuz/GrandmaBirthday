@@ -1,0 +1,133 @@
+.paper-background {
+    background-image: url(images/br-two.png);
+    background-position: 100%;
+    text-align: center;
+}
+
+h1 {
+    display: block;
+    margin-top: 34px;
+    font-family: 'Lora', serif;
+    font-weight: 100;
+    font-size: 2.4rem;
+    margin-bottom: 0%;
+}
+
+.head {
+    width: 100%;
+    margin: 0;
+}
+
+.head_line {
+    position: absolute;
+    border-color: #1d1d1b;
+    width: 32.6%;
+    top: 52px;
+}
+
+div.biografy h2 {
+    position: absolute;
+    text-align: end;
+    font-size: 4rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    right: 6.5%;
+    top: 55px
+}
+
+div.biografy p{
+    font-size: 1.3rem;
+    text-align: start;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    margin-left: 3.8%;
+    margin-top: 105px;
+    margin-bottom: 0%;
+}
+
+.border-hr {
+    border-color: #1d1d1b;
+    margin-top: 20px;
+    margin-bottom: 45px;
+}
+
+.sticker {
+    margin-left: 2%;
+    width: 93%;
+    border-radius: 10px;
+    box-shadow: 0 -3px 6px rgba(29, 29, 27, .2);
+    background-image: url(images/ok.png);
+    padding: 5px;
+}
+
+.holes {
+    width: 300px;
+    border-bottom: 32px dotted #C8C1B1;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.photo {    
+    margin-top: 8px;
+    width: 95%;
+    border: 1px solid #1d1d1b;
+    border-radius: 30px;
+}
+
+.under_photo {
+    text-align: end;
+    margin-top: 1%;
+    margin-right: 6%;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+.next-page {
+    width: 60%;
+    height: 30px;
+    border: 0;
+    border-radius: 9px;
+    background-image: url(images/ok.png);
+    margin-bottom: 45px;
+}
+
+.next-page a {
+    text-decoration-line: none;
+    font-size: 1.15rem;
+    color: #1d1d1b;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+}
+
+.good-text {
+    margin-left: 4.5%;
+    width: 90%;
+    border: 3px solid #1d1d1b;
+    border-radius: 27px;
+    box-shadow: 0 -3px 6px rgba(29, 29, 27, .2);
+    margin-bottom: 50px;
+}
+
+.good-text img {
+    margin-top: 15px;
+    width: 17%;
+    border-radius: 100px;
+}
+
+.good-text p {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    text-align: start;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.еaster {
+    font-family: 'Playfair Display', serif;
+    font-weight: 100;
+    font-size: 0.4rem;
+}
